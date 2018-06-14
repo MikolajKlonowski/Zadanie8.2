@@ -6,7 +6,7 @@ public class Ball extends Shape3D{
         R = r;
     }
 
-    public int getR() {
+    public double getR() {
         return R;
     }
 
