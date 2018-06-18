@@ -2,7 +2,7 @@ public class Circle extends GeometricShape {
     private double r1;
 
     public Circle(int x1, int y1, double r1) {
-        super(x1, y1, 0, 0, 0, 0);
+        super(x1, y1);
         this.r1 = r1;
     }
 
